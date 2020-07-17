@@ -23,7 +23,6 @@ body {
 
 .text-primary {
     color: #{{ site.data.template.color.primary }};
-    /*color: #404;*/
 }
 
 p {
@@ -77,7 +76,7 @@ figcaption {
   line-height: 22px;
   font-size: 20px;
   padding: 3px;
-  text-align: left;
+  text-align: center;
 }
 
 
