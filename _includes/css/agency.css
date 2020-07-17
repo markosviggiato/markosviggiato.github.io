@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+#page
+{
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body {
     overflow-x: scroll;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
