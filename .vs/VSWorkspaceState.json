@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    "\\img",
-    "\\_includes"
+    "",
+    "\\_includes",
+    "\\_includes\\css",
+    "\\_layouts"
   ],
+  "SelectedNode": "\\_includes\\aboutme.html",
   "PreviewInSolutionExplorer": false
 }

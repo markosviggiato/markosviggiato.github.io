@@ -4,22 +4,25 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-#page
+/*#page
 {
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 
-.container{
+/*.container{
     width: 70%;
     margin: 0 auto;
-}
+}*/
 
 
 
 body {
-    overflow-x: scroll;
+    width: 80%;
+    margin: 0 auto;
+	float: none; 
+    overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
@@ -86,7 +89,9 @@ figcaption {
   text-align: left;
 }
 
-
+.contact-form{
+    color: #fff;
+}
 /*
 figcaption {
     margin: 300px 700px 0 0;
@@ -315,13 +320,22 @@ fieldset[disabled] .btn-xl.active {
         background-color: #5d5d5d;
     }
 
+    /* header main title and section names colors HERE */
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
         color: #fff;
     }
 
+    .navbar-default.navbar-shrink .navbar-brand:hover{
+        color: #{{ site.data.template.color.secondary }};
+	}
+
     .navbar-default.navbar-shrink .nav li a {
-    color:  #fff;
+        color:  #fff;
+    }
+
+    .navbar-default.navbar-shrink .nav li a:hover {
+        color: #{{ site.data.template.color.secondary }};
     }
 }
 
@@ -345,7 +359,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    margin-right: -315px;
+    /* margin-right: -315px;  HERE */
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
@@ -805,6 +819,7 @@ footer ul.quicklinks {
 ul.social-buttons {
     margin-bottom: 0;
     margin-top: 10px;
+    margin-left: 3px;
 }
 
 .fa-linkedin{

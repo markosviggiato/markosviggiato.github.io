@@ -12,56 +12,31 @@ description: "This is the personal website for Markos Viggiato. Please contact m
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Markos Viggiato
   pic: 1
-  position: Lead Designer
+  position: PhD Researcher
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
+    - title: github
+      url: #
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/markosviggiato/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/markosviggiato
+  - title: twitter
+    url: https://twitter.com/viggiato
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 9107 116 St NW
+  - line: Edmonton, AB T6G 2V4
 
 # Build settings
 markdown: kramdown
