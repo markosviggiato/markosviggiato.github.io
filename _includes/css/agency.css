@@ -135,7 +135,13 @@ section p.section-content {
     font-weight: 500;
 }
 
-
+.text-image{
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 200px;
+}
 
 figcaption {
   color: #{{ site.data.template.color.secundary-dark }};
