@@ -5,7 +5,7 @@ baseurl: /markosviggiato.github.io/
 gems: ["jemoji"]
   
 # Site settings
-title: Markos Viggiato - PhD Researcher | Game Analytics 🎮
+title: Markos Viggiato - Ph.D. Researcher | Applied Data Science
 email: markosviggiato@gmail.com
 description: "This is the personal website for Markos Viggiato. Please contact me if you would like to talk about data analytics, machine learning and Artificial Intelligence application to games and software."
 
