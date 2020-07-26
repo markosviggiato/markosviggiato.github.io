@@ -19,7 +19,7 @@
 
 
 body {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 	float: none; 
     overflow-x: hidden;
@@ -98,17 +98,23 @@ h6 {
 .about-me {
   margin-top: 100px;
   margin-bottom: 100px;
-  width:300px; 
+  margin-left: 500px;
+  width: 650px; 
   height: 150px; 
-  float:right; 
+  float: none; 
 }
 
-.about-me h2 {
-  color: #404;
+.education{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width:500px; 
+  height: 150px; 
+  float:right;
 }
+
 
 .about-me h4 {
-    text-transform: none;
+  text-transform: none;
   font-family: {{ site.data.template.font.primary }};
   color: #{{ site.data.template.color.secondary-dark }};
 }
@@ -121,6 +127,13 @@ h6 {
   margin: 50px
 } */
 
+section p.section-content {
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+    font-weight: 500;
+}
 
 
 
@@ -338,7 +351,12 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary}};
+}
+
+.navbar-default .nav li a:hover {
+    color:  #fff;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 @media(min-width:768px) {
@@ -374,21 +392,22 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand:hover{
-        color: #{{ site.data.template.color.secondary }};
+        color: #{{ site.data.template.color.primary }};
 	}
 
     .navbar-default.navbar-shrink .nav li a {
         color:  #fff;
     }
 
-  /*  .navbar-default.navbar-shrink .nav li:hover {
-        color:  #fff;
-        /*color: #{{ site.data.template.color.secondary }};
-    } */
-
     .navbar-default.navbar-shrink .nav li a:hover {
         color:  #fff;
-        /*color: #{{ site.data.template.color.secondary }};*/
+        background-color: #{{ site.data.template.color.primary }};
+    }
+
+    .navbar-default.navbar-shrink .navbar-nav>.active>a {
+    border-radius: 0;
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
     }
 }
 
