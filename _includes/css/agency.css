@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -153,7 +153,30 @@ figcaption {
   text-align: left;
 }
 
+.publication{
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+}
 
+/*ul.papers li {
+    list-style-type: none;
+    position: relative;    It's needed for setting position to absolute in the next rule. 
+} */
+
+/* ul.papers li::before {
+    content: '■';
+    position: absolute;
+    left: -0.8em;           Adjust this value so that it appears where you want. 
+    font-size: 1.1em;       Adjust this value so that it appears what size you want. 
+    float: left;
+} */
+
+/*ul.papers li span{
+    color: #{{ site.data.template.color.secundary-dark }};
+    font-family: {{ site.data.template.font.primary }};
+    position:relative;
+    float: left;
+} */
 
 .contact-form{
     color: #fff;
