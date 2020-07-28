@@ -5,10 +5,12 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: xai_dota2.png
-thumbnail: xai_dota2.png
+thumbnail: xai_dota2-thumbnail.png
 alt: image-alt
 project-date: January 2020 - present 
 category: Explainable AI, Predictive analytics, MOBA games
 description: In this project, we aim at building explainable prediction models for team victory in Dota 2. With an increasing popularity, Multiplayer Online Battle Arena games where two teams compete against each other, such as Dota 2, play a major role in esports tournaments, attracting millions of spectators. Some matches (so-called blowout matches) end extremely quickly or have a very large difference in scores.
+sourcecode: https://github.com/
+paperpdf: /resources/Markos_AIIDE_20.pdf
 
 ---
