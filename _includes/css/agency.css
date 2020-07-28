@@ -135,6 +135,10 @@ section p.section-content {
     font-weight: 500;
 }
 
+.modal-body-description{
+    font-size: 15px;
+}
+
 section p.contact-text{
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
