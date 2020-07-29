@@ -12,6 +12,7 @@ client: Start Bootstrap
 category: Web Development
 description: This project is a prototype application of a real-time news collector and analyzer.
 sourcecode: Source-code repository&#58; <a href="https://github.com/markosviggiato/realTimeInfo" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+dataset:
 paperpdf:
 
 ---
