@@ -1,0 +1,18 @@
+---
+title: Code Change Evolution
+subtitle: Co-evolution of changes on GitHub
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: my_website/changes_website.png
+thumbnail: my_website/changes_website-thumbnail.png
+alt: image-alt
+project-date: July 2018 - December 2018
+category: Software Analytics, Statiscal Modelling, Data Mining
+description: Code changes are performed differently depending on the platform of the application&#58; mobile (e.g., Android) or non-mobile (e.g., desktop and web). However, the patterns of evolution of code changes in those platforms are still unknown. This project aimed at investigating the frequency and the co-evolution of different types of code changes in mobile and non-mobile platforms. I investigated 3 types of changes&#58;<br/><br/> &#8226; source code (changes made to source code files) <br/> &#8226; build (changes made to build configuration files) <br/> &#8226; test (changes made to test files) <br/><br/> I collected and analyzed 500K commits from GitHub repositories. For the analysis, I built explanatory regression models to explain the factors that influence the frequency of changes and used a frequent itemset algorithm (Apriori) to reveal the co-occurring types of changes.
+
+sourcecode: Source-code repository&#58;  <a href="https://github.com/markosviggiato/code-change-analysis" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+dataset:
+paperpdf: Paper associated with project&#58; <a href="/resources/Markos_ICSME_19.pdf" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a>
+
+---

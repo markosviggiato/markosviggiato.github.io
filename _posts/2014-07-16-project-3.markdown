@@ -1,0 +1,18 @@
+---
+title: Real-time Analytics
+subtitle: Real-time analytics for news
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: my_website/realtime_website.png
+thumbnail: my_website/realtime_website-thumbnail.png
+alt: image-alt
+project-date: August 2018
+client: Start Bootstrap
+category: Data Analytics, Sentiment Analysis
+description: Real-time analytics is an exciting topic as it allows us to perform a series of different analysis on real-time data and act quickly. This project is a prototype application of a real-time news collector and analyzer. Currently, the application is able to collect the latest Donald Trump's tweets and Donald Trump-related news from CNN. The application also performs sentiment analysis on his tweets. <br/> <a href="https://viggiato.shinyapps.io/real_time_news/" target="_blank"> Link to the app </a>
+sourcecode: Source-code repository&#58; <a href="https://github.com/markosviggiato/realTimeInfo" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+dataset:
+paperpdf:
+
+---
