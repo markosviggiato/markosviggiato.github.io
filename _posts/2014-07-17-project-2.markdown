@@ -9,7 +9,7 @@ thumbnail: my_website/SA_website-thumbnail.png
 alt: image-alt
 project-date: January 2019 - present 
 category: Natural Language Processing, Sentiment Analysis, Game Reviews, Steam
-description: Understanding sentiment analysis on game reviews.
+description: Several sentiment analysis techniques have been proposed in recent years, however the performance of existing popular techniques is still far from acceptable. This is more common when those techniques are applied in a domain different from the domain they were originally trained and built, such as training a sentiment classifier on Twitter data and applying on game data. <br/> This project aims at better understanding how existing sentiment analysis techniques perform on game reviews. I rely on a large-scale dataset (approximately 12M reviews from <a href="https://steamcommunity.com/" target="_blank">Steam</a>) to evaluate the techniques and identify the root causes of wrong classifications. I then provide recommendations for developers on what they need to prioritize to improve their sentiment analysis classification pipeline. Finally, I evaluated the performance of per-genre models (building different sentiment classifier models for different game genres).
 sourcecode: Source-code repository&#58; (repository is currently private due to the review process of the work. It will be available soon!)
 dataset:
 paperpdf: Paper associated with project&#58; (paper's access is currently restricted due to the blind review process of the work. It will be available soon!)
