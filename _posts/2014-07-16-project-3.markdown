@@ -1,0 +1,17 @@
+---
+title: Real-time News
+subtitle: Real time analytics
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: my_website/realtime_website.png
+thumbnail: my_website/realtime_website-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: This project is a prototype application of a real-time news collector and analyzer.
+sourcecode: Source-code repository&#58; <a href="https://github.com/markosviggiato/realTimeInfo" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+paperpdf:
+
+---

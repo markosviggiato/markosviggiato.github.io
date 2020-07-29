@@ -4,13 +4,13 @@ subtitle: Explainable prediction models
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: xai_dota2.png
-thumbnail: xai_dota2-thumbnail.png
+img: my_website/xai_dota2.png
+thumbnail: my_website/xai_dota2-thumbnail.png
 alt: image-alt
 project-date: January 2020 - present 
 category: Explainable AI, Predictive analytics, MOBA games
 description: In this project, we aim at building explainable prediction models for team victory in Dota 2. With an increasing popularity, Multiplayer Online Battle Arena games where two teams compete against each other, such as Dota 2, play a major role in esports tournaments, attracting millions of spectators. Some matches (so-called blowout matches) end extremely quickly or have a very large difference in scores.
-sourcecode: https://github.com/
-paperpdf: /resources/Markos_AIIDE_20.pdf
+sourcecode: Source-code repository&#58;  <a href="https://github.com/" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+paperpdf: Paper associated with project&#58; <a href="/resources/Markos_AIIDE_20.pdf" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a>
 
 ---

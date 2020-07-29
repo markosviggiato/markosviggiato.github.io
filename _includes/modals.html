@@ -17,9 +17,42 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p class="modal-body-description" style="text-align:justify">{{ post.description }}</p>
 
-                            <p class="modal-body-description" style="text-align:left"> Source-code repository:  <a href="{{ post.sourcecode }}" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a> </p>
+                            <p class="modal-body-description" style="text-align:left"> {{ post.sourcecode }} </p>
+							<p class="modal-body-description" style="text-align:left">  {{ post.paperpdf }} </p>
+         
+                                
+                          <!--  <script>
+                                var elementIsClicked = false; // declare the variable that tracks the state
+                                function clickHandler(){ // declare a function that updates the state
+                                  elementIsClicked = true;
+                                }
 
-                            <p class="modal-body-description" style="text-align:left"> Paper associated with project:  <a href="{{ post.paperpdf }}" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a> </p>
+                                var element = document.getElementById('projectModal3'); // grab a reference to your element
+                                element.addEventListener('click', clickHandler); // associate the function above with the click event
+
+                                // check if the element has been clicked every 2 seconds:
+                                function isElementClicked (){
+                                  if (elementIsClicked){
+                                  alert('element clicked');
+								  }
+                                  
+                                }
+                                setInterval(isElementClicked, 2000);
+                            </script> -->
+
+
+                        <!--    <script>
+                            if($("div").attr("class") == "portfolio-modal" && $("div").attr("id") == "projectModal3")
+                            
+                            {
+                            alert("Today's date is " + new Date());
+                                <p class="modal-body-description" style="text-align:left"> Source-code repository:  <a href="{{ post.sourcecode }}" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a> </p>
+                            }
+                            else{
+                                <p class="modal-body-description" style="text-align:left"> Source-code repository:  <a href="{{ post.sourcecode }}" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a> </p>
+							    <p class="modal-body-description" style="text-align:left"> Paper associated with project:  <a href="{{ post.paperpdf }}" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a> </p>
+                            }
+                            </script> -->
 
                             <ul class="list-inline item-details">
 

@@ -1,16 +1,16 @@
 ---
 title: Game Review Sentiment
-subtitle: Understanding Sentiment Analysis on Game Reviews
+subtitle: Sentiment classification of game reviews
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: my_website/SA_website.png
+thumbnail: my_website/SA_website-thumbnail.png
 alt: image-alt
 project-date: January 2019 - present 
 category: Natural Language Processing, Sentiment Analysis, Game Reviews, Steam
 description: Understanding sentiment analysis on game reviews.
-sourcecode: https://github.com/
-paperpdf: /resources/Fischer_Markos_SPLC_20.pdf
+sourcecode: Source-code repository&#58; (repository is currently private due to the review process of the work. It will be available soon!)
+paperpdf: Paper associated with project&#58; (paper's access is currently restricted due to the blind review process of the work. It will be available soon!)
 
 ---
