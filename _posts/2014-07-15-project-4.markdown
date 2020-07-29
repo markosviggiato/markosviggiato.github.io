@@ -1,0 +1,16 @@
+---
+title: Code Change Evolution
+subtitle: Co-evolution of changes on GitHub
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: my_website/changes_website.png
+thumbnail: my_website/changes_website-thumbnail.png
+alt: image-alt
+project-date: July 2018 - December 2018
+category: Software Analytics, Statiscal Modelling, Data Mining
+description: Project to understand how different types of code changes evolve in GitHub repositories.
+sourcecode: Source-code repository&#58;  <a href="https://github.com/markosviggiato/code-change-analysis" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
+paperpdf: Paper associated with project&#58; <a href="/resources/Markos_ICSME_19.pdf" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a>
+
+---

@@ -7,7 +7,7 @@ date: 2014-07-16
 img: my_website/realtime_website.png
 thumbnail: my_website/realtime_website-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: August 2018
 client: Start Bootstrap
 category: Web Development
 description: This project is a prototype application of a real-time news collector and analyzer.
