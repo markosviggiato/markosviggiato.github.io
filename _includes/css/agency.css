@@ -495,9 +495,10 @@ fieldset[disabled] .btn-xl.active {
 
     /* header main title and section names colors HERE */
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.1em;
         color: #fff;
     }
+
 
     .navbar-default.navbar-shrink .navbar-brand:hover{
         color: #{{ site.data.template.color.primary }};
