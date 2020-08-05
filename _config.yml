@@ -2,6 +2,9 @@
 baseurl: /markosviggiato.github.io/
 # access: http://127.0.0.1:4000/markosviggiato.github.io//
 
+# Google Analytics
+google_analytics: UA-174535928-1
+
 gems: ["jemoji"]
   
 # Site settings
