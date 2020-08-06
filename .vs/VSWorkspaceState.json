@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\resources",
-    "\\_data",
     "\\_includes",
-    "\\_includes\\css",
-    "\\_posts"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_includes\\aboutme.html",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
