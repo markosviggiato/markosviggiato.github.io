@@ -3,8 +3,9 @@
     "",
     "\\resources",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_includes\\publications.html",
+  "SelectedNode": "\\_posts\\2014-07-18-project-1.markdown",
   "PreviewInSolutionExplorer": false
 }
