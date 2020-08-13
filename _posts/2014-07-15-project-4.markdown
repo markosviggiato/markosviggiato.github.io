@@ -13,6 +13,6 @@ description: Code changes are performed differently depending on the platform of
 
 sourcecode: Source-code repository&#58;  <a href="https://github.com/markosviggiato/code-change-analysis" target="_blank"> <i class="fa fa-github" style="margin-left:10px;font-size:18px"></i> </a>
 dataset:
-paperpdf: Paper associated with project&#58; <a href="/resources/Markos_ICSME_19.pdf" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a>
+paperpdf: Paper associated with project&#58; <a href="/resources/Markos_ICSME_19.pdf" target="_blank"> <i class="fa fa-file-pdf-o" style="margin-left:10px;font-size:18px"></i> </a> (Published at the 35th International Conference on Software Maintenance and Evolution - ICSME 2019)
 
 ---
