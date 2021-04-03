@@ -6,6 +6,8 @@ baseurl: /markosviggiato.github.io/
 google_analytics: UA-174535928-1
 
 gems: ["jemoji"]
+gems:
+  - jekyll-redirect-from
   
 # Site settings
 title: Markos Viggiato - Ph.D. Researcher | Applied Machine Learning
@@ -44,3 +46,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
