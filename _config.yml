@@ -42,6 +42,5 @@ address:
   - line: Edmonton, AB T6G 2V4
 
 # Build settings
-theme: minima
 markdown: kramdown
 permalink: pretty
